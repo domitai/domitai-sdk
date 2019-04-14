@@ -1,0 +1,28 @@
+{
+  "name": "@domitai/domitai-sdk",
+  "version": "1.0.2",
+  "description": "Domitai Services SDK",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npmjs.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domitai/domitai-sdk.git"
+  },
+  "keywords": [
+    "domitai",
+    "sdk",
+    "api"
+  ],
+  "author": "Mario Medina",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/domitai/domitai-sdk/issues"
+  },
+  "homepage": "https://github.com/domitai/domitai-sdk#readme"
+}
